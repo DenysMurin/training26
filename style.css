@@ -1,0 +1,19 @@
+:root {
+  --color-1: blue;
+  --color-2: red;
+}
+.icon:hover {
+  --color-1: red;
+  --color-2: blue;
+}
+
+.grey {
+  fill: orangered;
+}
+.grey:hover {
+  fill: rgb(1, 179, 119);
+  transition: 2s ease;
+}
+body {
+  background-color: black;
+}
