@@ -12,7 +12,7 @@
 }
 .grey:hover {
   fill: rgb(1, 179, 119);
-  transition: 2s ease;
+  transition: 0.5s ease;
 }
 body {
   background-color: black;
